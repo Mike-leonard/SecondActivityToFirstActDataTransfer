@@ -1,0 +1,4 @@
+#Thu Nov 21 18:42:03 ALMT 2019
+base.0=F\:\\AndroidStudioProjects\\Send Data from Second Act to First Act\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
