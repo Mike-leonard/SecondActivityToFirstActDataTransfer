@@ -4,4 +4,4 @@
 <br>
 <br>
 
-<img src="device-casso.webm" width="550px" height="700px"/>
+<img src="ezgif.com-video-to-gif.gif" width="550px" height="700px"/>
